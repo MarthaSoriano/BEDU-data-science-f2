@@ -25,7 +25,7 @@ https://www.football-data.co.uk/spainm.php
 
 
 
-[-> Ver archivo CSV de datos](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/SP1.csv)
+[-> Ver archivo CSV de datos]()
 [-> Ver archivo CSV de datos](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/dat/SP1.csv)
 
 ## 2. Importa los datos a R como un Dataframe. NOTA: No olvides cambiar tu dirección de trabajo a la ruta donde descargaste tu archivo
