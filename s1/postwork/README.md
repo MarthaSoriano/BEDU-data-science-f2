@@ -30,8 +30,8 @@ setwd("~/R Fase 2/9-nov-22")
 sp1 <- read.csv("SP1.csv")
 View(sp1)
 ```
-[-> Ver descripción de datos](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/notes.txt)
-[-> Ver descripción de datos](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/dat/notes.txt)
+[-> Ver descripción de datos](
+[-> Ver descripción de datos](
 
 ![csv cargado](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/loaded_csv.png)
 ![csv cargado](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/img/loaded_csv.png)
