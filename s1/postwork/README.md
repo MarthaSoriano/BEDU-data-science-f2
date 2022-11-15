@@ -33,8 +33,8 @@ View(sp1)
 [-> Ver descripción de datos](
 [-> Ver descripción de datos](
 
-![csv cargado](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/loaded_csv.png)
-![csv cargado](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/img/loaded_csv.png)
+![csv cargado]()
+![csv cargado]()
 
 ## 3. Del dataframe que resulta de importar los datos a `R`, extrae las columnas que contienen los números de goles anotados por los equipos que jugaron en casa (FTHG) y los goles anotados por los equipos que jugaron como visitante (FTAG); guárdalos en vectores separados
 ```
@@ -42,8 +42,8 @@ View(sp1)
 (goles.visitantes <- c(sp1$FTAG))
 
 ```
-![vectores](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/vectors_FTAG_FTHG.png)
-![vectores](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/img/vectors_FTAG_FTHG.png)
+![vectores](https://github.com/....png)
+![vectores](https://github.com/...png)
 ## 4. Consulta cómo funciona la función `table` en `R`. Para ello, puedes ingresar los comandos `help("table")` o `?table` para leer la documentación.
 ```
 help("table")
@@ -51,8 +51,8 @@ help("table")
 ```
 table(vector.FTHG,vector.FTAG, dnn=list("FTHG","FTAG"))
 ```
-![tabla](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/result_table.png)
-![tabla](https://github.com/adavals/bedu-datascience-f2/blob/main/s1/postwork/img/result_table.png)
+![tabla]()
+![tabla](https://github.com/....png)
 
 ### a) ¿Cuántos goles tuvo el partido con mayor empate?
      R. 4 goles  
